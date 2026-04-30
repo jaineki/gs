@@ -1,4 +1,4 @@
-// src/services/aiService.ts
+// src/services/
 export class AIService {
     private apiUrl: string;
 
